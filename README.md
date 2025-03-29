@@ -7,8 +7,7 @@
 [![Keycloak](https://img.shields.io/badge/Keycloak-logo-000?logo=keycloak)](https://www.keycloak.org/)
 [![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-logo-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-logo-326CE5?logo=kubernetes)]
-(https://kubernetes.io/)
+[![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
 
 
 ## Проект состоит из 4 микросервисов:
