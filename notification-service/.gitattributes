@@ -1,0 +1,10 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+
+# Для Windows-скриптов явно указываем CRLF
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Для всех остальных текстовых файлов используем LF
+* text=auto eol=lf
