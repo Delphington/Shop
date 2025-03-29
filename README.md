@@ -23,3 +23,7 @@
 
 Схема:
 ![{FB1A07CC-CE8B-403B-9822-64935CAC4033}](https://github.com/user-attachments/assets/b882aab9-21b2-4894-8d78-14006a6de563)
+
+
+Пример метрик
+![изображение](https://github.com/user-attachments/assets/f49eee0f-1b0e-4cab-bb4d-08c339c2015e)
