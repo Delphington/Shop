@@ -19,7 +19,7 @@
 - API Gateway using Spring Cloud Gateway MVC
 
 
-# Используется паттерн API Gateway с аунтефикаций запросов через Keycloak
+# API Gateway с аутентификацией запросов через Keycloak и авторизацией на основе ролей.
 
 Схема:
 ![{FB1A07CC-CE8B-403B-9822-64935CAC4033}](https://github.com/user-attachments/assets/b882aab9-21b2-4894-8d78-14006a6de563)
