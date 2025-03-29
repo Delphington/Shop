@@ -8,6 +8,7 @@
 [![Testcontainers](https://img.shields.io/badge/Testcontainers-logo-000?logo=testcontainers)](https://testcontainers.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-logo-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
 [![Swagger](https://img.shields.io/badge/Swagger-logo-85EA2D?logo=swagger)](https://swagger.io/)
+[![Flyway](https://img.shields.io/badge/Flyway-logo-000000?logo=flywaydb&logoColor=white)](https://flywaydb.org/)
 
 
 ## Проект состоит из 4 микросервисов:
